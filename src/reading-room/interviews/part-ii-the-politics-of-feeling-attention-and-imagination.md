@@ -4,7 +4,7 @@ title: "Part II - The Politics of Feeling, Attention, and Imagination"
 interviewer: "Naila Alavi"
 permalink: /interviews/part-ii-the-politics-of-feeling-attention-and-imagination/
 image: "https://i.ibb.co/pBbcVy1n/Peter-Mc-Laren.jpg"
-date: 2026-09-06
+date: 2026-09-08
 author: "naila"
 description: "The second of a three-part conversation with Peter McLaren, exploring how power operates through the management of collective emotion, distraction, and imagination itself."
 ---
