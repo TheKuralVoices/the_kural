@@ -2,7 +2,7 @@
 layout: post
 title: "Part III - Where Does Critical Pedagogy Live Now?"
 interviewer: "Naila Alavi"
-permalink: /interviews/part-iii-where-does-critical-pedagogy-live-now/
+permalink: /interviews/peter-mclaren-part-iii-where-does-critical-pedagogy-live-now/
 image: "https://i.ibb.co/pBbcVy1n/Peter-Mc-Laren.jpg"
 date: 2026-09-08
 author: "naila"
