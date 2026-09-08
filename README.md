@@ -1,19 +1,41 @@
+<div align="center">
+
 # 📝 TheKural — Post Editor
 
-A lightweight, single-file browser editor for writing and publishing **TheKural** blog posts — no build step, no backend, no framework. Sign in with a Cloudinary key, write your post, and copy the finished Markdown/HTML straight into your Jekyll `_posts/` folder.
+### A simple, elegant editor for publishing Blog articles.
+
+**Write › Upload › Publish**
 
 
+<a href="https://thekural.in">
+  <img src="https://img.shields.io/badge/✦%20%20Visit%20TheKural.in-000000?style=for-the-badge&logoColor=white" alt="Visit TheKural.in"/>
+</a>
 
-## 🚀 Getting started
+<br><br>
 
-1. Drop `editor.html` into your Jekyll site (e.g. served at `/editor`).
-2. Open it in a browser and sign in with your **Cloudinary API Key** and **API Secret**.
-3. Write your post, upload images, fill in the front matter, and copy the generated HTML into your `_posts/` folder.
+</div>
 
-No build tools, no npm install — it's plain HTML, CSS, and JavaScript.
+A lightweight, single-file browser editor for writing and publishing  blog posts — no build step, no backend, no framework.
+
+Sign in with your Cloudinary credentials, write your post, upload images, configure the front matter, and copy the finished Markdown/HTML straight into your Jekyll `_posts/` folder.
+
+
+## 🚀 Getting Started
+
+1. Drop `editor.html` into your Jekyll site, for example at `/editor`.
+2. Open it in your browser.
+3. Sign in with your **Cloudinary API Key** and **API Secret**.
+4. Write your post and upload images.
+5. Fill in the required front matter.
+6. Copy the generated HTML into your Jekyll `_posts/` folder.
+
+No build tools. No `npm install`. Just **HTML, CSS, and JavaScript**.
 
 <br>
+
 <div align="center">
+
+
 
 ## 👨‍💻 Developer
 
@@ -23,13 +45,12 @@ No build tools, no npm install — it's plain HTML, CSS, and JavaScript.
 
 *"Keep your circle small."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-nabilanavab-181717?logo=github\&logoColor=white)](https://github.com/nabilanavab)
-[![Telegram](https://img.shields.io/badge/Telegram-nabilanavab-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/nabilanavab)
-[![Followers](https://img.shields.io/github/followers/nabilanavab?label=Followers\&style=social)](https://github.com/nabilanavab?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-nabilanavab-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nabilanavab)
+[![Telegram](https://img.shields.io/badge/Telegram-nabilanavab-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/nabilanavab)
 
 <br>
 
-Have any doubt about this code? Reach out any time — via <a href="https://github.com/nabilanavab">GitHub</a> or <a href="https://t.me/nabilanavab">Telegram</a>.
+Have any doubt about this code? Reach out any time — via <a href="https://github.com/nabilanavab">GitHub</a>, or <a href="https://t.me/nabilanavab">Telegram</a>.
 
 <br>
 
@@ -54,6 +75,8 @@ Have any doubt about this code? Reach out any time — via <a href="https://gith
 
 </table>
 
+<br>
+
+<sub> · Built with care by <a href="https://github.com/nabilanavab">Nabil A Navab</a> ·</sub>
+
 </div>
-
-
