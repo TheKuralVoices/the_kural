@@ -18,8 +18,8 @@ description: "The final part of a three-part conversation with Peter McLaren, on
 </p>
 <h1 style="text-align: center;"><font size="5"><font color="#ff2600">&nbsp;WHERE DOES CRITICAL PEDAGOGY LIVE NOW?</font>&nbsp;</font>
 </h1>
-<h1 style="text-align: justify;"><font color="#000000" size="3">1. Critical pedagogy has long imagined the classroom as a space of emancipation. But many young people today encounter politics primarily through algorithms, short-form outrage, influencer culture, and digital propaganda rather than classrooms. In such a world, where does critical pedagogy live now? Can the classroom still compete with the emotional machinery of the internet?</font>
-</h1>
+<h3 style="text-align: justify;"><font color="#000000" size="3">1. Critical pedagogy has long imagined the classroom as a space of emancipation. But many young people today encounter politics primarily through algorithms, short-form outrage, influencer culture, and digital propaganda rather than classrooms. In such a world, where does critical pedagogy live now? Can the classroom still compete with the emotional machinery of the internet?</font>
+</h3>
 <p style="text-align: justify;"><br><b>McLaren:</b> Critical pedagogy has traditionally imagined the classroom as a space where students learn to question assumptions, interrogate power, and develop the critical capacities necessary for democratic citizenship. But we must recognize that the educational terrain has changed dramatically. Today, many young people encounter politics less through classrooms than through algorithms, influencers, social media feeds, digital spectacles, and what I have elsewhere called the emerging culture of post-digital fascism. &nbsp;
 </p>
 <p style="text-align: justify;">The crucial question is therefore not whether the classroom can compete with the internet. The question is whether critical pedagogy can expand beyond the classroom and confront the new pedagogical forces shaping consciousness in the digital age.&nbsp;
